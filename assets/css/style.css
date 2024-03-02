@@ -1,0 +1,105 @@
+#ModalAddKaryawan .modal-content {
+  border-radius: 10px;
+}
+
+#ModalAddKaryawan .modal-header {
+  background-color: #4e73df;
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#ModalAddKaryawan .modal-title {
+  font-size: 24px;
+}
+
+#ModalAddKaryawan .modal-body {
+  padding: 20px;
+}
+
+#ModalAddKaryawan .form-label {
+  font-weight: bold;
+}
+
+#ModalAddKaryawan .form-control {
+  border-radius: 5px;
+}
+
+#ModalAddKaryawan .modal-footer {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 15px;
+}
+
+#ModalAddKaryawan .btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+#ModalAddKaryawan .btn-primary {
+  background-color: #28a745;
+  color: #fff;
+}
+
+/* Hover effect on buttons */
+#ModalAddKaryawan .btn-secondary:hover,
+#ModalAddKaryawan .btn-primary:hover {
+  opacity: 0.8;
+}
+
+
+#ModalUpdateKaryawan .modal-content {
+  border-radius: 10px;
+}
+
+#ModalUpdateKaryawan .modal-header {
+  background-color: #4e73df;
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+#ModalUpdateKaryawan .modal-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#ModalUpdateKaryawan .modal-body {
+  padding: 20px;
+}
+
+#ModalUpdateKaryawan .form-label {
+  font-weight: bold;
+}
+
+#ModalUpdateKaryawan .form-control {
+  border-radius: 5px;
+}
+
+#ModalUpdateKaryawan .modal-footer {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 15px;
+}
+
+#ModalUpdateKaryawan .btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+}
+
+#ModalUpdateKaryawan .btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+}
+
+#ModalUpdateKaryawan .btn-success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+/* Hover effect on buttons */
+#ModalUpdateKaryawan .btn-secondary:hover,
+#ModalUpdateKaryawan .btn-danger:hover,
+#ModalUpdateKaryawan .btn-success:hover {
+  opacity: 0.8;
+}
